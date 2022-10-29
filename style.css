@@ -1,0 +1,323 @@
+/* Header */
+.navigation a:hover,
+.navigation a:focus{
+    color: #03A9F4;
+}
+.nav1{
+position: absolute;
+width: 71px;
+height: 19px;
+left: 315px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: grey;
+}
+
+.nav2{
+position: absolute;
+width: 89px;
+height: 19px;
+left: 485px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: grey;
+}
+
+.nav3{
+position: absolute;
+width: 44px;
+height: 19px;
+left: 674px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: grey;
+}
+
+.nav4{
+position: absolute;
+width: 52px;
+height: 19px;
+left: 818px;
+top: 71px;
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+color: grey;
+}
+/* Header */
+
+/* Main */
+
+.card1{
+position: absolute;
+width: 420px;
+height: 546px;
+left: 148px;
+top: 182px;
+}
+
+#festival_photo{
+position: absolute;
+width: 420px;
+height: 280px;
+left: auto;
+top: auto;
+}
+
+#caption1{
+position: absolute;
+width: 64px;
+height: 16px;
+left: auto;
+top: 335px;
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+line-height: 16px;
+color: grey;
+}
+
+#caption_main{
+    position: absolute;
+width: 408px;
+height: 40px;
+left: auto;
+top: 395px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: grey;
+}
+
+#Lorem{
+    position: absolute;
+width: 420px;
+height: 76px;
+left: auto;
+top: 475px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+#cofee_photo{
+    position: absolute;
+width: 420px;
+height: 280px;
+left: 633px;
+top: 182px;
+}
+
+#style2{
+    position: absolute;
+width: 64px;
+height: 16px;
+left: 633px;
+top: 524px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+color: grey;
+}
+
+#Lifes{
+    position: absolute;
+width: 379px;
+height: 40px;
+left: 633px;
+top: 572px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: grey;
+}
+
+#Lorem2{
+    position: absolute;
+width: 420px;
+height: 76px;
+left: 633px;
+top: 652px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+}
+
+
+
+
+
+.card3{
+    position: absolute;
+width: 421px;
+height: 516px;
+left: -20px;
+top: auto;
+}
+
+#bridge_photo{
+    position: absolute;
+    width: 420px;
+    height: 280px;
+    left: 147px;
+    top: 858px;
+}
+
+#photot{
+    position: absolute;
+width: 86px;
+height: 16px;
+left: 148px;
+top: 1170px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+color: #B4AD9E;
+
+}
+
+#america{
+    position: absolute;
+width: 225px;
+height: 40px;
+left: 148px;
+top: 1218px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+
+color: #626262;
+}
+
+#Lorr{
+    position: absolute;
+width: 420px;
+height: 76px;
+left: 148px;
+top: 1298px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+#card4{
+    
+position: absolute;
+width: 420px;
+height: 516px;
+left: 633px;
+top: 858px;
+}
+
+#photoss{
+    position: absolute;
+width: 86px;
+height: 16px;
+left: 633px;
+top: 1170px;
+
+font-family: 'Ubuntu';
+font-style: normal;
+font-weight: 300;
+font-size: 14px;
+line-height: 16px;
+
+
+color: #B4AD9E;
+}
+
+#day{
+    position: absolute;
+width: 324px;
+height: 40px;
+left: 633px;
+top: 1218px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 30px;
+line-height: 40px;
+color: #626262;
+}
+
+#Lorems{
+    position: absolute;
+width: 420px;
+height: 76px;
+left: 633px;
+top: 1298px;
+
+font-family: 'Playfair Display';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 19px;
+
+color: #626262;
+
+}
+
+#explorer_photo{
+    position: absolute;
+width: 420px;
+height: 280px;
+left: 633px;
+top: 858px;
+}
+button{
+    align-items: center;
+    width: 150px;
+    height: 60px;
+    display: flex;
+    justify-content: center;
+    position: absolute;
+    top: 1450px;
+    left: 50%;
+}
